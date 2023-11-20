@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CJOkoth
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning DSA and Algorithms, Python, Javascript, and SQL
+- 🌱 I’m currently learning SE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... collinsokoth.jnr@gmail.com
 
